@@ -57,7 +57,7 @@ https://youtu.be/5W3ZDTSREt4?t=147
 - FPGA Board (mention yours)
 - Simulation tool (ModelSim / Vivado)
 
-## 👨‍💻 My Contributions
+## 👨‍💻 My Contributors
 - Sree Balaji P
-- Vignesh M
+- Aashish M
 - Vidula Balamurugan 
